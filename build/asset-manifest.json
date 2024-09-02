@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.25627633.css",
-    "main.js": "/static/js/main.47d7527c.js",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/background.png": "/static/media/background.da37828d41090154f962.png",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/index.html",
-    "main.25627633.css.map": "/static/css/main.25627633.css.map",
-    "main.47d7527c.js.map": "/static/js/main.47d7527c.js.map"
+    "main.css": "/React-Weather-App/static/css/main.6e989652.css",
+    "main.js": "/React-Weather-App/static/js/main.1e7e896c.js",
+    "static/media/background.png": "/React-Weather-App/static/media/background.a637b7a21003b6dc4e50.png",
+    "static/media/fa-solid-900.ttf": "/React-Weather-App/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/React-Weather-App/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/React-Weather-App/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/React-Weather-App/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/React-Weather-App/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/React-Weather-App/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React-Weather-App/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React-Weather-App/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/React-Weather-App/index.html",
+    "main.6e989652.css.map": "/React-Weather-App/static/css/main.6e989652.css.map",
+    "main.1e7e896c.js.map": "/React-Weather-App/static/js/main.1e7e896c.js.map"
   },
   "entrypoints": [
-    "static/css/main.25627633.css",
-    "static/js/main.47d7527c.js"
+    "static/css/main.6e989652.css",
+    "static/js/main.1e7e896c.js"
   ]
 }
