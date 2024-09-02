@@ -13,7 +13,7 @@ Before setting up the project, ensure you have the following installed:
 ### Setup Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/adityaRajGit/WeatherApp-Catching-Frontend.git
+   git clone https://github.com/adityaRajGit/WeatherApp-Frontend.git
    cd WeatherApp-Catching-Frontend
 
 2. **Install**:
